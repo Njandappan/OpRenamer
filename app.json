@@ -5,7 +5,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/im-vivektomar/RENAME-PRO",
+    "repository": "https://github.com/Njandappan/RENAME-PRO",
     "success_url": "https://t.me/Report_ToAdminbot",
     "env": {
         "APP_ID": {
